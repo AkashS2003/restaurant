@@ -1,0 +1,14 @@
+body{
+    color: black;
+    background-color: aqua;
+}
+h3{
+    background-color: black;
+    color: aliceblue;
+    display: inline;
+}
+.pic{
+    border-radius: 30px;
+    height: 100px;
+    width: 100px;
+}
